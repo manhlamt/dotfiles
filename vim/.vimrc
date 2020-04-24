@@ -1,3 +1,2 @@
-execute pathogen#infect()
+:set tabstop=2 shiftwidth=2 expandtab nu
 syntax on
-filetype plugin indent on
